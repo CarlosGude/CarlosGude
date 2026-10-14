@@ -26,4 +26,6 @@ I build and modernise PHP/Symfony backends: migrating legacy systems safely, des
 
 **Stack:** PHP 8 · Symfony · Doctrine · API Platform · RabbitMQ · SQS · MySQL · PostgreSQL · Redis · Docker · GitHub Actions
 
-🌐 [carlosgude.dev](https://carlosgude.dev) · 💼 [LinkedIn](https://linkedin.com/in/carlos-gude) · ✉️ carlos.sgude@gmail.com
+🌐 [carlosgude.dev](https://carlosgude.dev) 
+💼 [LinkedIn](https://linkedin.com/in/carlos-gude) 
+✉️ carlos.sgude@gmail.com
